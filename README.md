@@ -3,7 +3,7 @@
 About 
 
 
-![alt text](screenshot.png "Description goes here")
+![alt text](CS-Women-Web-Resume-Template/screenshot.PNG "Description goes here")
 
 This is a simple online resume template build with Boostrap 4, and font awesome for icons. Template references CDNS, so internet is needed for website to render. 
 
