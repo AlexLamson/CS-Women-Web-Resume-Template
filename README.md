@@ -7,6 +7,8 @@
 This is a simple online resume template build with Bootstrap 4. This template is geared for college students who want to build a web portfolio. 
 
 ## To Use
-Simply clone the repository and edit as desired. 
-
+1. Download or clone the repository 
+2. Edit and make changes as needed 
+3. Commit and push changes 
+4. Make sure your repository is named username.github.io
 
