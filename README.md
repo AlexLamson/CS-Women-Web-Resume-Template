@@ -2,9 +2,9 @@
 
 ## About 
 
-![screenshot](https://cloud.githubusercontent.com/assets/8978764/24691841/eb8b7c3e-19a3-11e7-9b16-87046c1e47ac.png)
+This is a simple online resume template build with Bootstrap 4. This template is geared for college students who want to build a web portfolio that briefly showcases their skillset and expertise. Below is what the template looks like. The rest of this README contains more detailed information on how to go about editing and changing the code. 
 
-This is a simple online resume template build with Bootstrap 4. This template is geared for college students who want to build a web portfolio. 
+![screenshot](https://cloud.githubusercontent.com/assets/8978764/24691841/eb8b7c3e-19a3-11e7-9b16-87046c1e47ac.png)
 
 ## Instructions for Workshop 
 
@@ -33,10 +33,10 @@ Your directory on your desktop should look like the following:
 
 ```
 __/Desktop
-__/My-website 
-		__/username.github.io
-		index.html
-		myStyle.css
+  __/My-website 
+    __/username.github.io
+	index.html
+	myStyle.css
 ```
 
 ### Step 4: Edit Index and CSS files 
@@ -62,17 +62,6 @@ Type in your website’s url (username.github.io) to see if your website is bein
 ## Understanding the Code 
 To understand the code, we have detailed page that describes what to change and how to change the HTML/CSS
 :https://docs.google.com/document/d/1R65wu8l8FvqforOcAEZJYUJ8ilo0VMsJFMyMf8SqXhs/edit
-
-
-
-
-
-
-
-
-
-
-
 
 
 
