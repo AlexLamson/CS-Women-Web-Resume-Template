@@ -4,6 +4,8 @@
 
 This is a simple online resume template build with Bootstrap 4. This template is geared for college students who want to build a web portfolio that briefly showcases their skillset and expertise. Below is what the template looks like. The rest of this README contains more detailed information on how to go about editing and changing the code. 
 
+Here is a live preview of what the template looks like: http://www.supriyakankure.com/CS-Women-Web-Resume-Template/
+
 ![screenshot](https://cloud.githubusercontent.com/assets/8978764/24691841/eb8b7c3e-19a3-11e7-9b16-87046c1e47ac.png)
 
 ## Instructions for Workshop 
